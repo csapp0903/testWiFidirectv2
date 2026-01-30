@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFi直连测试</string>
+    <string name="btn_start_discover">一键发现设备</string>
+    <string name="btn_stop_discover">停止发现</string>
+    <string name="btn_auto_connect">一键自动连接</string>
+    <string name="btn_disconnect">断开连接</string>
+    <string name="btn_clear_log">清空日志</string>
+    <string name="status_idle">状态：空闲</string>
+    <string name="status_discovering">状态：正在搜索设备…</string>
+    <string name="status_connecting">状态：正在连接…</string>
+    <string name="status_connected">状态：已连接</string>
+    <string name="status_disconnected">状态：已断开</string>
+    <string name="label_discovered_devices">发现的设备：</string>
+    <string name="label_log">运行日志：</string>
+    <string name="label_connection_info">连接信息：</string>
+    <string name="no_devices_found">未发现设备</string>
+</resources>
